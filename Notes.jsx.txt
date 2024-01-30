@@ -1,0 +1,16 @@
+const react = require("react");
+
+function Notes() {
+  return (
+    <div className="note">
+      <h1>Front End Developer</h1>
+      <p>
+        creates websites and applications using web languages such as HTML, CSS,
+        and JavaScript that allow users to access and interact with the site or
+        app.
+      </p>
+    </div>
+  );
+}
+
+export default Notes;
